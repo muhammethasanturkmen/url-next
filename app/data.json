@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "url": "https://www.example.com/long-url-1",
+    "shortUrl": "https://exmpl.com/1"
+  },
+  {
+    "id": 2,
+    "url": "https://www.example.com/long-url-2",
+    "shortUrl": "https://exmpl.com/2"
+  },
+  {
+    "id": 3,
+    "url": "https://www.example.com/long-url-3",
+    "shortUrl": "https://exmpl.com/3"
+  },
+  {
+    "id": 4,
+    "url": "https://www.example.com/long-url-4",
+    "shortUrl": "https://exmpl.com/4"
+  }
+]
